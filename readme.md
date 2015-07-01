@@ -1,6 +1,13 @@
 # Notice
 
-Here is a basic time-tracker (in-out twice a day, minimal pause of 30 minutes for lunch, automatically deduced even if no pause was taken).
+![General use of the time tracker](notice-general.png)
 
-For a day not to be counted (e.g. vacation), remove the 'x' in column B.
+If you need to plan ahead and see the future, uncheck B2.
+
+![Planification mode](notice-future.png)
+
+# TODO
+
+* [ ] Create utilities for XLSX construction/deconstruction from deconstructed files
+* [ ] Document the configuration of the file
 
