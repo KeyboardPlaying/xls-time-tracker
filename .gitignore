@@ -1,2 +1,7 @@
+# Summary of this file: do not save binaries!
+
+# Do not save the compiled version of the XLSX
 *.xlsx
 
+# Do not save the construct for those who have it in the same place
+/*.jar
