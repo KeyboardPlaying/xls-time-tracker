@@ -1,5 +1,7 @@
 # Notice
 
+[![Join the chat at https://gitter.im/cyChop/xls-time-tracker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cyChop/xls-time-tracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![General use of the time tracker](notice-general.png)
 
 If you need to plan ahead and see the future, uncheck B2.
