@@ -1,4 +1,4 @@
-# ![&#x1f559;](doc/icon-timetracker-32.png) xls-time-tracker
+# ![&#x1f559;](doc/icons/timetracker-32.png) xls-time-tracker
 
 [![Join the chat at https://gitter.im/cyChop/xls-time-tracker][gitter-badge]][gitter-channel]
 
