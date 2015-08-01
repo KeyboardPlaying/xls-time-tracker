@@ -5,3 +5,5 @@
 
 # Do not save the construct for those who have it in the same place
 /*.jar
+/*.jar.lnk
+
