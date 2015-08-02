@@ -2,9 +2,13 @@
 
 [![Join the chat at https://gitter.im/cyChop/xls-time-tracker][gitter-badge]][gitter-channel]
 
+The xls-time-tracker is an Excel sheet designed to help you follow the time you stay at work.
+
+![Preview](doc/screenshots/xls-time-tracker.png)
+
 ## Notice
 
-See the [Wiki] to see how to use the time tracker or contribute to it.
+See the [Wiki] to see how to use the time tracker or fork it.
 
 ## License
 
