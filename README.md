@@ -6,6 +6,8 @@
 
 [![Issues][issues-badge]][waffle]
 
+> **:warning: This project was moved [to GitLab](https://gitlab.com/keyboardplaying/xtt/xls-time-tracker).**
+
 The xls-time-tracker is an Excel sheet designed to help you follow the time you stay at work.
 
 ![](doc/screenshots/xls-time-tracker.png)
